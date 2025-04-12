@@ -49,9 +49,7 @@ screen -S eclipse
 bitz collect
 ```
 - You need 0.005 $ETH on Eclipse to start mining, so send $ETH to your public key
-<br><br>
 - Detach from screen with CTRL + A + D
-<br><br>
 - Go back to screen with ```screen -r eclipse```
 <br><br>
 Other Commands:

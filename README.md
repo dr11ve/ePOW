@@ -52,6 +52,7 @@ bitz collect
 - Detach from screen with CTRL + A + D
 - Go back to screen with ```screen -r eclipse```
 <br><br>
+<br><br>
 Other Commands:
 
   •	Claim your Bitz:

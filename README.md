@@ -32,6 +32,10 @@ cargo install bitz
 ```bash
 solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
 ```
+or
+```bash
+solana config set --url https://eclipse.helius-rpc.com/
+```
 7. Open Screen
 ```bash
 screen -S eclipse

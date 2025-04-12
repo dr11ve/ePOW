@@ -67,6 +67,7 @@ Other Commands:
   •	View all commands:
 ```bitz -h```
 <br><br>
+<br><br>
 Import to backpack:
 ```bash
 solana config get

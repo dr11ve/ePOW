@@ -63,6 +63,9 @@ Other Commands:
 
   • Config CPU (change the number to change cores):
 ```bitz collect --cores 8```
+
+  • Check Hashpower
+```bitz benchmark```
   
   •	View all commands:
 ```bitz -h```

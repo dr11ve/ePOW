@@ -84,4 +84,3 @@ Copy array of number and import them on backpack in private key section
 <br><br>
 **For help check #powpow channel on Eclipse discord: https://discord.gg/eclipse-fnd**
 <br><br>
-**My X: https://x.com/ArshiaXBT**
